@@ -1,0 +1,402 @@
+[
+    {
+        "guid":"94cdfd24-de94-4072-a5aa-a3a9dc953d2b",
+        "model_answer":"Pour montrer que tous les coefficients d'indices impairs (resp. pairs) sont nuls, il faut v\u00e9rifier les \u00e9l\u00e9ments suivants : 1. Tout coefficient de l'indice impaire est nul. 2. Tout coefficient de la fonction est nul : il n'existe aucun coefficient de cette fonction. 3. Tout coefficient de L(n) est nul, c'est-\u00e0-dire que la fonction n'a aucun coefficient de L. 4. Tout coefficient de $f$ est nul mais pas nul. 5. Tout coefficient de"
+    },
+    {
+        "guid":"3826e1bd-05f7-4f80-a6ad-937af83dc3e4",
+        "model_answer":"The correct sequence of lemma is: - MapNil.mapTr(f, ys) == Nil.mapCons. - MapTrNil.MapTr(x :: xs).mapTr (f, xs) = = ys.mapTR(f, (x :) xs.maptr(f), (x )) ys == xs + (x - xs, y) y :: (x ;: x"
+    },
+    {
+        "guid":"f6f7e3a3-b63a-4f13-abbe-a2b3f74c64e5",
+        "model_answer":"Entanglement is sufficient but not necessary for the violation of a Bell inequality When a quantum system is entangled, it means that it is not free. The Bell inequality states that if there is a quantum state entanglement, then there exists a quantum field that is free of such field. This is a violation of Bell inequality because if there are quantum fields in which there is entangling, then there is entanglement."
+    },
+    {
+        "guid":"0b473eff-0fc8-4fb0-9d10-bc49d18e52e3",
+        "model_answer":"To solve this problem, we need to use the concept of \"detector of fumes\". We can do this by applying the following formula: $f(x) = rac - 3 x - x$. Then we have: $$f(x+1) = e_1 + rac -1 x -2 x -3 x -1 - rac -3 X + rac 2x - 1 x -5 x 0 x -4 x &= rac -2 - e_2"
+    },
+    {
+        "guid":"6654c2b0-4dcd-432e-9c8e-26d638afe0ef",
+        "model_answer":"$O(number of direntries in the directory)$ The worst-case complexity of listing files in a directory is $O(1)$, where $O$ is the number of hashing operations needed to list all the files in the directory. This can take many times the time of listing the files as well as the size of the file system."
+    },
+    {
+        "guid":"202f9e3f-be4d-4b51-8789-f4eb0666690f",
+        "model_answer":"['add a regularization term']"
+    },
+    {
+        "guid":"198d8637-b6eb-4a3a-92c0-6baad4f34a2e",
+        "model_answer":"- Le fichier est stock\u00e9 dans le r\u00e9pertoire muche \u00e0 partir de l\u2019adresse 42. - Les blocs qui utilisent ce r\u00e9pertoir sont ceux qui reconnaissent les informations du fichier : - Le premier bloc est le fichier racine (\/), qui a pour nom de fichier \"musique\". - Le second est le fichier home (\/home). - Le troisi\u00e8me est le fichier muche (\/home\/muche\/Musique), qui en contient les tables. - Le d\u00e9but du fichier Musique est le fichier"
+    },
+    {
+        "guid":"da3590dc-4da0-4790-bd94-b9e56450702b",
+        "model_answer":"['Si f' est continue sur l'espace a) mais non sur l\u2019espace b), alors f' ne peut pas \u00eatre born\u00e9e.', 'Si la matrice f' existe, alors elle ne poss\u00e8de pas de solvant d\u00e9rivable.']"
+    },
+    {
+        "guid":"299255b4-6b4b-423b-bafa-e1f2ca04ecb5",
+        "model_answer":"Subsequent URLs in an adjacency list have typically small differences Recursively searching the reference list in the neighboring window of the Web page's URL does not guarantee that there are no additional nodes."
+    },
+    {
+        "guid":"92251192-94ec-4d07-a94c-34775db00d70",
+        "model_answer":"$$ a_1 - a_2 - b_1 e_2 e_3 e_4 - c_5 e_6 e_7 e_8 e_10 e_13 e_11 e_14 e_15 e_16 e_17 e_18 e_19 e_20 e_21 e_23 e_24 e_25 e_28 e_31 - - e_1 i_1 t_5"
+    },
+    {
+        "guid":"b82db1db-a6f9-4e3a-8d45-9a89cfddd953",
+        "model_answer":"['The gradient is 0 so nothing happens']"
+    },
+    {
+        "guid":"e07a6c79-461a-40f2-b8a8-402f92e38839",
+        "model_answer":"To find the phase difference of a linearly polarized input beam that is passing through a half wave plate (HWP), we need to use the jones vector representation of the wave. In a QWP, the ordinary axis generates a phase of $e_0$ for $E_x$ field while the extraordinary axis creates a $e_2$ phase difference for $E-y$ field. The jones value for $e_1$ is given by: $$ e_1 = e_2 + e_"
+    },
+    {
+        "guid":"1f0c9830-5cb9-44ef-865a-1681b7cae654",
+        "model_answer":"None The spin of a particle can take only two values, $S_z$ and $S_x$. In an ideal microscopy system, each spin can point in either direction. When more spins point in a different direction than the others, the total spin is not nul and there is a magnification of the material. In this case, all spins point to the same direction, but only one spin can point to that direction. This is called a microscopy."
+    },
+    {
+        "guid":"8dca0280-913e-469b-a9b0-e0edea7fc589",
+        "model_answer":"In the node associated to V, the Viterbi algorithm would store the value of the word \"time\" as a time vector. This value is stored in the corresponding node in the graph associated to V. For example, let's consider the graph associated with V and the word \"hour\". The ViterbI algorithm uses the encoding of the time vector as an integer to represent the time. The value of the encoded time vector is stored in its own node in V. This value represents the number of words that can be processed in V. The value for the word"
+    },
+    {
+        "guid":"e82b5b83-63be-4052-8b90-856964aa898b",
+        "model_answer":"Sure, here's an explanation: 1. False: If a function is continuous, it cannot have a derivative on a diagonal. 2. True: A function is continuous if and only if it has a derivative. 3. True: A constant is continuous unless and only IF it has no derivative on b. 4. True: A continuous function is continuous when it has 0 derivative on c. 5. True: A curve is continuous IF and only EVAR if and ONLY IF it contains a constant. 5. False. Faux: If f is strict"
+    },
+    {
+        "guid":"fb202e2b-e599-44d7-b4ff-3fec50e91311",
+        "model_answer":"$||y - f(x)||=-1$ $||x-f(x, x)|=-1 $ $"
+    },
+    {
+        "guid":"7690f1a8-df38-4e65-a667-09f0877fb255",
+        "model_answer":"To answer this question, we need to understand what a reorder buffer is. A reorder memory buffer is a temporary buffer that is used to store additional information about the state of a program. When an instruction is fetched from memory, the address of the address buffer is read from the registers and written to the registers. The address buffer is used to hold the values of instructions that were executed by the system during the fetching. The reorder function stores the address of each instruction in the registers, enabling the CPU to read it from the register registers and return it to the"
+    },
+    {
+        "guid":"a442d457-38a3-4ec4-898f-89cbbf5db372",
+        "model_answer":"Premi\u00e8rement, rappelons que pour chaque \u00e9l\u00e9ment $x_i$, on a : $$ x_i=1$$ o\u00f9 $x_j=1$ et $y_j=3$. Ensuite, on utilise la formule suivante : $f(x_j)=x_j+x_k+y_j$. On a donc: $$f(x)=x-x_i+y_k+z_j+z_n+1$$ Pour montrer que $f$ converge"
+    },
+    {
+        "guid":"bfb2e9ae-9035-40ee-8406-b95519d675ac",
+        "model_answer":"The LHC is a particle accelerator at CERN that can generate 1 Po\/s. This is equivalent to 12 years of HD video per second. However, even if we put many disks in parallel, we would not be able to create a fast connection to enregistre all these data in real time without loosing them. Instead, we would need to use specialized circuits and processors that can reduce the data by a factor of 1000 before injecting directly into the central memory of a dedicated computer. This means that it would be impossible to store all of these data in one single"
+    },
+    {
+        "guid":"6fab6a7c-f678-401b-965d-4b1b7e514852",
+        "model_answer":"$O(1)$ Listing a directory takes $O(1)*log(number of direntries in the directory)$ time."
+    },
+    {
+        "guid":"841d52c7-5353-424c-a1f4-8ebf473ecc6d",
+        "model_answer":"The update rule for the minibatch SGD with a batch size $B$ and a constant step-size $L$ is as follows: $$ f_i(x) = f_1+f_2 + f_2 f_3 f_4 f_5$$ where $f$ is the output of the optimization problem. The update rule is as follows. First, we define the minimum value of $f_i$, which is given by $f(x)=f(x).$ Now, we can modify the initial value of $"
+    },
+    {
+        "guid":"f72cf01b-8f66-4e8f-a3b9-3bfb27f562d7",
+        "model_answer":"['$(3+10arepsilon) &= 5+9arepsilson) \/ 10+9areposilon &= 0$']"
+    },
+    {
+        "guid":"60c20157-95f6-4cf5-b71c-29ce9d194200",
+        "model_answer":"To write a function that takes as input the data matrix X and the labels y, and returns the coefficient and bias of linear regression predictor using the closed-form solution, we can follow these steps: 1. Define a function called linear_regression_predictor that takes as parameters the data matrix (X) and the labels (y) and returns the linear regression model's coefficients and biases using the closed form solution. 2. Define if and only if the function is called once per iteration. 3. Define &= linear_regress_predict"
+    },
+    {
+        "guid":"3538e748-434d-4ed8-adc3-e9bda94c46c9",
+        "model_answer":"['Si il existe deux sous-suites a_n et b_n telles que 0 et 1 pour tout k, et si l'on converge l'un et les autres, alors l'autre converge aussi.']"
+    },
+    {
+        "guid":"426d5d69-1a8d-4aca-b6f3-71b5a9af11ab",
+        "model_answer":"To merge two leftist min heaps, we need to first determine the rank of each node in the leftist heap. This can be done using the following code: - if (x1 - x2) => shake(x1, x2, lh1, rh2) - f(x1, 1) => merge(x1, 1, lh1) - g(x1, 2) - d(x2, x1, ro, ro) - e(x2, 2, o(x2, 1), 0) -"
+    },
+    {
+        "guid":"30afbb49-8450-43c9-bb4d-ffd127127497",
+        "model_answer":": - '(2+3 + 3 + 2 = 3+3 + 2 + 2 + 3 = 2 + 3 + 3 + 4 = 4 + 4 + 4 = 3 + 4 + 1 + 2 + 1 + 3 + 1 + 1 + 0 = 0', '(3 + 3+3+4+2+3+2+2+1 + 0) = 0$'"
+    },
+    {
+        "guid":"7c17680c-400d-4adf-96cb-7af4b14ff562",
+        "model_answer":"Pour calculer l'int\u00e9grale, on doit utiliser la m\u00e9thode de Gauss-Jordan. La m\u00e9thode consiste \u00e0 \u00e9crire l'\u00e9quation en utilisant les \u00e9l\u00e9ments suivants : $$ i_0 = -i x_0 + i_1 x_1 + i x-i y_1 + I_2 x_2 + I_3 x_4 x_6 + I_5 x_8 x_9 x_10 + i-i d x-"
+    },
+    {
+        "guid":"d9b30a74-5f67-4c4a-9a83-e9bfd09bc47d",
+        "model_answer":"['pour tout epsilon>0, il n'existe pas de rempla\u00e7ant tel que x-a+a+b=a+b+a+a-a+b-b=b+c+d=a+ab+c=b+a-b-c=b-c.']"
+    },
+    {
+        "guid":"99de7be3-24e6-45b7-9ef3-a9f1bd649c8a",
+        "model_answer":"The phase difference for quarter wave plates (QWP) and half wave plates (HWP) is $$ e_i = -e_i \/ d_i e_j = -n_i d_j$$ where $e_i$ is the angular momentum of the beam and $d$ is the thickness of the plate. To calculate the jones vector representation of the output beam in a QWP\/HWP, we can use the formula: $$ f_i = 2 x - d n_"
+    },
+    {
+        "guid":"f2ccb67e-6051-4111-8434-0209cad56ee3",
+        "model_answer":"The simplest general evaluation metric that can be considered for various NLP tasks is accuracy. This metric measures how well a task performs in terms of predicting correct answers from a large number of queries. In other words, the accuracy of a task is an important measure of how well it is performing in order to be evaluable. For example, if a task predicts a certain word, then it will be accurate if it is true. However, if it does not, then it may not be evalued through accuracy. Therefore, accuracy is not evalu"
+    },
+    {
+        "guid":"04ca849b-3186-4abc-b865-c512d9119e0a",
+        "model_answer":"The common types of exceptions which must be implemented precisely are: - Denial: This exception is thrown when an application is trying to perform a task that requires the user to perform arbitrary tasks. It can be thrown because the system is not prepared to handle the task and the user hasn't completed the task yet, or it can be triggered by an external event such as a network failure. - Refusal: This exception occurs when the system attempts to perform unauthorized tasks or requests that are outside of the scope of the system. This exception is not thrown by the system."
+    },
+    {
+        "guid":"36d8f75e-6249-4cab-9e1e-69571358b0ad",
+        "model_answer":"Sure! Here's an example of a convolutional neural network that detects edges in 1-D inputs: - Input: x = 1 - x_k - f(x_k) = 1 d + 2 k - 1 d = 1 k d = k. - Output: f(X_k)=k - 2 d = (1 d + 2) - 1 (k d) = k Then, the output: f(1) = (A(X)_k)_"
+    },
+    {
+        "guid":"e1a1b845-bc57-4250-a715-6b7bf2f3e192",
+        "model_answer":"['12.5']"
+    },
+    {
+        "guid":"7a2855e0-5c47-4622-b025-4dfa11353f41",
+        "model_answer":"The given concatenation of two con-trees of heights $h_1$ and $h_2$ yields a concatenated tree with height $h$. To determine the height of this concatenate, we need to use the formula for concatenating two con-trees: $h_1, h_2 = h_1 + h_2. $$ Here, $h$ is the height of the concatenates, $h_0 = h-1$, and $h$ are the heights of the con"
+    },
+    {
+        "guid":"f24af540-a417-4810-b572-c6a816fd36d8",
+        "model_answer":"To design a new estimator with a higher success probability while only asking a relatively few persons, we can follow these steps: 1. First, let us define $X=Y$. 2. Next, we can define $Y=X_1$. 3. Next, let's define $W=X_2$. 4. Finally, we can assume that $X_1=X_2, Y_2=X_1, Y_2,... Y_3=X_3,... X_4,..., Y_1,..., W = X_2,"
+    },
+    {
+        "guid":"aac16eb3-0584-4b0d-bee5-311565c0b0d7",
+        "model_answer":"['Si l'indice $a_n$ est major\u00e9 pour tout n$, alors il existe en g\u00e9n\u00e9ral un indice $b_n$ tel que $a_1=b_2$.', \"Si et seulement si $a_2=a_2$, alors $a_3=b_3$\".]"
+    },
+    {
+        "guid":"c304254e-8c84-4179-a6a8-a78b3bdd633d",
+        "model_answer":"['Supervised regression, estimation']"
+    },
+    {
+        "guid":"6f0d7868-be35-4f47-8770-22999fe667a9",
+        "model_answer":"Pour r\u00e9soudre ce probl\u00e8me, on peut \u00e9crire un algorithme qui consiste \u00e0 effectuer une augmentation en utilisant une combinaison de deux m\u00e9thodes diff\u00e9rentes : l'augmentation en fonction du temps et le remplacer par une augmentation de la taille de la variable par une autre augmentation. Cette augmentation a pour but de r\u00e9duire le temps euclidienne et de r\u00e9duire ainsi la dur\u00e9e de vie de la variable. Pour r\u00e9souder le probl\u00e8me, on pourrait utiliser une augmentation dans la variable de la variable en "
+    },
+    {
+        "guid":"32cb1531-16d4-4bd0-871d-09c05f083d33",
+        "model_answer":"None of the given statements are correct. The float is subject to Archimedian buoyancy and a viscous friction force $ec-F$. Therefore, the differential equation for the motion of the float is: $$ d_f = rac m_v r - k eta v$$ where $m_v$ is the displacement from the surface of the water, $r$ is the radius of the cylinder, and $h$ is the height of the sphere. The damping coefficient is $$ rac r = rac"
+    },
+    {
+        "guid":"215d2a69-d6c0-4aca-bf47-70eb2091c3fe",
+        "model_answer":"The Prime+Probe cache attack works by combining the values of the first and last elements in a memory address space to create a cache of zeroes. The attacker then searches through the memory addresses in the cache until they find a match. This cache is then used to retrieve the value of the second element, which can then be used to determine the value of a previous element. This cache can then be debugged and the attacker can see which element has been accessed first."
+    },
+    {
+        "guid":"19799141-5b4f-4239-bc50-dd5c1c14a3e9",
+        "model_answer":"- Pour indiquer les matrices diagonalisables, on peut utiliser le principe de la diagonalisation. On peut utiliser la m\u00e9thode de Laplace pour trouver une matrice diagonale. - Pour chaque vecteur $v$, on utilise la m\u00e9thode du changement de base pour trouver la matrice de changement de base. - Par exemple, pour chaque vertice de $v$ dans la matricie $A$, on trouve $$V_1 = v_1 + v_2 = v'(v_0) + v"
+    },
+    {
+        "guid":"f3ca44ac-51a9-4ff7-aec4-7b7d76f4837f",
+        "model_answer":"Obtaining responses to enough different stimuli from a single cell Patch-clamp causes a drift of the threshold over time"
+    },
+    {
+        "guid":"a559e3e1-2520-4d95-9cc1-7cce4798fea3",
+        "model_answer":"Poor spatial resolution The projection radiograph is a technique used to obtain high spatial resolution images. It involves the acquisition of large amounts of data, often at long distances from the source of the image. This leads to poor spatial resolution and tissue superimposition."
+    },
+    {
+        "guid":"52f78310-1458-4ad2-9605-e99a10e73550",
+        "model_answer":"They can focus on reproduction of some features rather than perfect reproduction of the experimental data The scoring approach allows to focus on reproducing some features rather then focusing on perfect reproducibility of the experimental dataset."
+    },
+    {
+        "guid":"70f8efa0-1816-445b-a053-cf92ee323bab",
+        "model_answer":"Different names for the same frequency The Larmor frequency is the frequency at which precession is effected."
+    },
+    {
+        "guid":"98df46d4-9b69-4702-8e58-6e4c2fedc94e",
+        "model_answer":"Pour \u00e9crire une matrice augment\u00e9e, on doit utiliser les propri\u00e9t\u00e9s de base et de libre. Les propri\u00e9t\u00e9s de bases sont les suivantes : $$ a_1 - a_2 - b_3 = a_3 - c_4 - d_5 - x_5 & = a x_1 + b x_2 + c x_3 & = 3 a_5 x_4 & = 4 a_0 + c_3 x"
+    },
+    {
+        "guid":"59c0251a-f677-46d1-aff0-a5435e62230c",
+        "model_answer":"a) Faux. La matrice $A$ est sym\u00e9trique. b) Vrai. La vecteur propre $A$ n'est pas d\u00e9finie positive. c) Faux, parce que $A$ peut \u00eatre d\u00e9compos\u00e9e en plusieurs matrices distinctes. d) Vrai, parce que les vecteurs propres de $A$ sont symmetriques. d). Vrai, puisque $Ax$ est d\u00e9finie positive, et donc elle est strictement positive. b"
+    },
+    {
+        "guid":"13739c83-35d1-4fec-867c-98bd69f9ae73",
+        "model_answer":"Because it is almost impossible to train a network with 10 layers without a supercomputer. A neural network can be trained with as many layers as you need, but it is almost always difficult to fit all of the layers into a super-computer."
+    },
+    {
+        "guid":"dc243fc6-5295-426f-ace7-c1594dcb4d59",
+        "model_answer":"Genetic knockouts are a tool commonly used to study gene regulatory networks. Genetic knockout is a technique that allows researchers to simulate gene expression in the presence or absence of specific genes. Patch-clamp is a method used to study the behavior of genes."
+    },
+    {
+        "guid":"2f7b092b-e05b-4b04-a99c-b9963f8e3032",
+        "model_answer":"[mathjaxinline]E_0=e e_1 t + e_2 t - e_3 t [\/mathjaXinline]"
+    },
+    {
+        "guid":"23ffa81e-c9d4-4c01-87ef-d88bb108587b",
+        "model_answer":"The conductance for each ion stays the same all along the axon and dendrites Cable theory is a mathematical model that describes how the conductance of an ion changes over time and across different areas of the afferent nerve. The cable diagram shows how the conductivity of each ionic species changes over time."
+    },
+    {
+        "guid":"2fabe332-48ef-433b-9b1c-b4e486180637",
+        "model_answer":"(c) $N-D+1$ The smallest value we can achieve for the reconstruction is $N-1$."
+    },
+    {
+        "guid":"1986353f-b780-4b31-94d6-fd9af077fb07",
+        "model_answer":"Epigenetic characteristics vary between cell types, but genetic characteristics do not Epigenetics is a process that alters DNA methylation levels in the cell. It affects gene expression, but genetic variability does."
+    },
+    {
+        "guid":"b1ea7aed-566b-4da0-803d-f29fc4cf50e1",
+        "model_answer":"Tout d'abord, rappelons que pour tout vecteur $v$ de la matrice $A$, on a $v_1 v_2 = n$, o\u00f9 $v_2$ est une matrice inversible de taille $n$. En effet, si $v_3$ est une valeur propre de $A$ et $v_4$ est une autre matrice non inversible, alors $v_5 v_4 = n v_1$, c'est-\u00e0-dire que le"
+    },
+    {
+        "guid":"d563f81d-6eef-4e06-b40c-e00352d5aa78",
+        "model_answer":"Premi\u00e8rement, pour montrer que les op\u00e9rations ad hoc sur les lignes \"valides\" transforment un syst\u00e8me en un sYM \u00e9quivalent, il faut v\u00e9rifier si les op\u00e9ration de substitution doivent \u00eatre ex\u00e9cut\u00e9es sur la ligne valide. En effet, pour tout op\u00e9ration ad-hoc sur une ligne, il existe une op\u00e9ration d'addition \u00e0 la ligne valid\u00e9e qui transforme la ligne en une autre ligne. Ensuite, on peut utiliser les op\u00e9ration en utilisant la m\u00e9thode de s\u00e9par"
+    },
+    {
+        "guid":"c1bc4cc6-e6af-4bb6-86c2-1dee8ec49ad2",
+        "model_answer":"on the u-nullcline, arrows are always vertical"
+    },
+    {
+        "guid":"f732d470-1631-4a0d-b1f6-51e937cf55be",
+        "model_answer":"dW_mag = -H*B*dH*D."
+    },
+    {
+        "guid":"88379c2b-4bda-41c0-b1c1-e44dc19ea14b",
+        "model_answer":"Gently blowing the wafer surface with nitrogen gun to create AlN gas In the case of Al plasma etching, it is not uncommon to observe chlorine residues on the film sidewalls. This is because the etching process is carried out using nitrogen gas and oxygen. The resulting etching product can contain traces of chlorine and other organic compounds that may be harmful to the substrate. Therefore, a solution to avoid this problem is to use nitrogen gas."
+    },
+    {
+        "guid":"ec128ef4-97e2-4998-a41c-e6eab0953c8c",
+        "model_answer":"The \"Consensus-Based Total-Order Broadcast\" algorithm transforms a consensus abstraction into a total-order broadcast abstraction using a consensus checksum. The checksum is derived from two abstractions, namely, a reliable broadcast abstraction and a consensus one. The consensus checksum is used to determine the order in which messages are delivered to each node in the network. The total-order abstraction is used to store the total number of messages that are delivered to the node. The consensus block is then used to store information about the node's state. The reliable broadcast"
+    },
+    {
+        "guid":"2b3de139-3757-4f15-9b48-e785fd51c3f4",
+        "model_answer":"PET scan uses positron-emitting radioisotope instead of single-photon emitters PET (positron emission tomography) and SPECT (single-photon emission tomographic) imaging are both based on the use of positron emitters, which are radioactive elements that emit positrons. PET is a non-invasive imaging technique that uses posions to detect and measure atomic nuclei in living cells. SPECT, on the other hand, uses single-photonic radioisotopic elements, which emit posi"
+    },
+    {
+        "guid":"19799141-5b4f-4239-bc50-dd5c1c14a3e9",
+        "model_answer":"Pour d\u00e9terminer les matrices diagonalisables, nous devons v\u00e9rifier si elles sont quadratiques. Dans ce cas, nous pouvons diagonaliser les colonnes de A par des colonnes de B, et obtenir une matrice diagonale de changement de base de la forme : - A = - B = - C = - D = - - D + - D - -3 D + -6 D + -3 D = -6 D - 3 D + -4 D + -2 D + 2 D + 0 D"
+    },
+    {
+        "guid":"45f4f919-77fb-4bbc-92f6-172fec8f4a92",
+        "model_answer":"Yes, I did not write a thread and at least one comment."
+    },
+    {
+        "guid":"f1d23839-38a5-46f6-946d-c0a11cc6c4e8",
+        "model_answer":"Gyromagnetic ratio The tissue contrast is obtained with differences in the spin-spin and spin-lattice relaxation constants. In MRI, the magnetic field is uniformly distributed over the tissues. Therefore, the tissue contrast can be obtained with different spin-spinning and spin-lactation relaxation constants, which vary with tissue abundance."
+    },
+    {
+        "guid":"d12be254-279f-4223-852c-9bb0791bb816",
+        "model_answer":"108.2 - 1010 = 1.082 - 1011 = 1.083 km"
+    },
+    {
+        "guid":"6a7100d1-64e2-426d-b762-62bafa8b9d55",
+        "model_answer":"Neurotransmitters are packaged in vesicles called quanta During the release of neurotransmitters, neurotransmitter molecules are packaged into vesicle-like vesicae. Each neuron has a set of release sites, which are the terminals of the neuron that is releasing neurotransmittered molecules. The probability of each release site generating a vesico-like molecule upon stimulation is always 1."
+    },
+    {
+        "guid":"458183ae-aef2-4798-b64d-b7de727c5300",
+        "model_answer":"['Si l'ordre de d\u00e9veloppement de f(x) est \u00e9gal \u00e0 z\u00e9ro, alors f(f(x-x)) admet un d\u00e9veloppement de Taylor autour de x_0.', 'Si la base de f' (x-x-x_0) a un d\u00e9veloppement limit\u00e9 en z\u00e9ro.']"
+    },
+    {
+        "guid":"cc24cdb8-3a06-4a93-9b94-aca69608ddb1",
+        "model_answer":"- Pour montrer que $( u| v)$ est l'inverse de la norme associ\u00e9e, nous devons montrer que pour tout $u, v$, $( v| u)$ et $( w| v u) = ( u|v w)$. - Pour tout $u_1,u_2,u_3$, $w_1,u\u00ad2$, et tous $v_1,v_2,u|v$, on a: $$( u_1,v| v"
+    },
+    {
+        "guid":"703e2827-6fe4-4f64-99ba-d81016d141ff",
+        "model_answer":"['( a_n+b_n = 0, b_n + 0. )']"
+    },
+    {
+        "guid":"e384b432-93ad-4770-9d13-74fc984cff31",
+        "model_answer":"['cashflow positive point', 'profit point']"
+    },
+    {
+        "guid":"de41310c-1119-420c-84f7-f391781a5f97",
+        "model_answer":": a. b. c. d. e. f. g. h. i. j. ii. iv. v."
+    },
+    {
+        "guid":"68e15f77-d5da-484b-ba19-659cc1bea2da",
+        "model_answer":"It is the star's magnetic field that ejects electrons. The energy of the emitted photons is sufficient high to dissociate atoms, and so to ionize them."
+    },
+    {
+        "guid":"bee98e82-357d-4d86-8c63-2f4c36b56e3f",
+        "model_answer":"One possible approach to implementing a feature that will allow users to scan a QR code to get a discount would be to have daily Scrum meetings. The goal of daily meetings is to ensure that the team has a clear understanding of the sprint goals and the status of each task. This will help to ensure that decisions about the implementation of complex features are made in a timely manner and ensure that the product meets the requirements of the sprint."
+    },
+    {
+        "guid":"19a6f5aa-151f-4b61-9cc2-5b2872ce4e6f",
+        "model_answer":"The algorithms find the optimal parameter values over the whole possible parameter space The algorithm generates a large number of random sets of parameters that are ranked according to goodness of fit, the best fitting one is selected as the final set."
+    },
+    {
+        "guid":"f61d34e0-d7a9-40f6-a9d1-02ca34b8dc3f",
+        "model_answer":"Smaller matrix size When an image has a smaller area, it means that there is less information available at a single point in the field of view. This leads to lower contrast resolution and decreased detail resolution."
+    },
+    {
+        "guid":"83ae18dc-a016-4f97-adc4-402ac56b1359",
+        "model_answer":"All of the above Simplified neuroscience is necessary to understand how the brain works and how all the elements interact. The simulation of the brain involves modeling the interactions between the different elements that compose the brain, which can help to understand how a brain works."
+    },
+    {
+        "guid":"d875b0d6-054c-42b3-848f-7d354a32eea6",
+        "model_answer":"Potassium ions The fast-early inward current is supported by a mixture of sodium ions and potassium ions."
+    },
+    {
+        "guid":"be73736f-6104-4dc5-b315-618c35f0e5f6",
+        "model_answer":"Avec la somme de l'in\u00e9galit\u00e9 et de la d\u00e9riv\u00e9e, on a : f(x_0) = -f(x) + f(2x_0+h) - f(z) = -2f(z-x_0), f'(x_0-h) = -1 f''(x) = 0 f' (x_0). On a donc: f'=f'(z-h) + h = -2. f'(0) = "
+    },
+    {
+        "guid":"1718610f-8dd6-4625-a6fb-becaf0881858",
+        "model_answer":"Improves signal misregistration and destructive interference (phase cancellation)"
+    },
+    {
+        "guid":"8bd54ea2-2ebb-40d4-9450-7b14a8b06b8a",
+        "model_answer":"[mathjaxinline]D=a g k_B T a g[\/mathjaXin]"
+    },
+    {
+        "guid":"70f8efa0-1816-445b-a053-cf92ee323bab",
+        "model_answer":"Different names for the same frequency Precession occurs when a wave vibrates in a direction that is opposite to the natural frequency of the wave. This phenomenon is called the Larmor frequency, and is associated with precession."
+    },
+    {
+        "guid":"e35d196d-d378-4134-9ac5-2e799a393890",
+        "model_answer":"Pour calculer la matrice associ\u00e9e \u00e0 la projection orthogonale sur le plan d'un vecteur $W$, on doit utiliser la m\u00e9thode de Gauss-Jordan. On utilise la formule suivante : $$W=W(x_1, y_1) + x_2(x_2) + y_3(x_3) = w(x_1+y_2) + 2y_1-y_2(y_2) = w_1 + y(y_3) = 1 x_0"
+    },
+    {
+        "guid":"edc67f0d-3970-4202-88be-01a9fdc54246",
+        "model_answer":"[mathjaxinline] p_i=1N p_j=1 p_k - 1 p_m - 0 p_n - p_t = 1 p'(i) - i p''(j) - (1 p_r - 1p_i) [\/mathjaXinline]"
+    },
+    {
+        "guid":"3b7e8491-0a75-4620-9a08-5236121d55a3",
+        "model_answer":"$$ - a_1 = a_2 + b_1 + c_1 + 1 + d_1 + 2 + e_2 + 2 - b_3 + d - d x + dy - f(x, y, z) + b x + 2 x + 1 - e_1 + 3 x + 4 x + 5 x + 6 x + 7 y + 2 y + b(x,y) + 1 + 1 x +"
+    },
+    {
+        "guid":"53d7b649-afab-48bd-a2b4-769df94b491c",
+        "model_answer":"2.90 s The decay time of an NMR line with T2 = 0.5 s is about 0.9 ms, so the decay time is about 3.90 s."
+    },
+    {
+        "guid":"245c93a8-3253-4b95-aca5-6918cf5bd650",
+        "model_answer":"la force est proportionnelle au courant Les syst\u00e8mes r\u00e9luctants polaris\u00e9s sont caract\u00e9ris\u00e9s par une structure simple o\u00f9 l'inductance est faible."
+    },
+    {
+        "guid":"bfef8387-5cd3-4cb1-9fbe-ae87f876425a",
+        "model_answer":"A current clamp keeping the current running in the axon constant"
+    },
+    {
+        "guid":"13739c83-35d1-4fec-867c-98bd69f9ae73",
+        "model_answer":"Because it is almost impossible to train a network with 10 layers without a supercomputer."
+    },
+    {
+        "guid":"64a34fa8-6bda-475f-b7da-b752ff1d1456",
+        "model_answer":"['qu'elle est \u00e9gale \u00e0 la r\u00e9sistance du fil multipli\u00e9 par le courant, plus la variation du flux totalis\u00e9']"
+    },
+    {
+        "guid":"e88dde48-5fbb-46b6-855f-1b41da17322b",
+        "model_answer":"They are the same Humans are born with a more mature brain, thus parts of mouse postnatal development correspond to human embryonic development. However, some of the processes involved in mouse postnatal brain development do not correspond to human developmental processes."
+    },
+    {
+        "guid":"c3842176-bc8b-4bba-8ad5-fb127d3282d8",
+        "model_answer":"(a) Logistic loss is typically preferred over $L_2 x L_2$ loss (least squares loss) in classification tasks. The reason for this is that $L_ 2 x L = L_1$. This loss is typically higher than $L_ 1$ since the training set is smaller. However, it does not necessarily mean that $L-1$ loss is preferable."
+    },
+    {
+        "guid":"d32e91ed-7eb4-44cd-be2b-2defaff5ce00",
+        "model_answer":"Each cell type has a fixed firing pattern that results from all individual cells of the same type having the same somatic and dendritic conductances"
+    },
+    {
+        "guid":"24e3fd38-37a4-4934-b74d-dc666e8c60b8",
+        "model_answer":"GABAergic inhibition counteracts glutamatergic excitation in neuronal networks of the brain GABAethylation is a mechanism by which GABA acts to counteract glutamate-induced excitatory neurotransmitters, such as glutamate and dopamine."
+    },
+    {
+        "guid":"056ea0f5-990e-45ec-9d81-60ec66ecf9a9",
+        "model_answer":"[mathjaxinline]p(n - k+1)=p(n + k+1), p(n+k)=p(0)[\/mathjaxxin]"
+    },
+    {
+        "guid":"2d9de929-7645-4192-8b90-8a7c253b162a",
+        "model_answer":"the potential genetic basis of diseases"
+    },
+    {
+        "guid":"1d74cd2f-d3fc-4f0e-b3ec-b27225b9160e",
+        "model_answer":"['During the execution of a system call, when transfering from user mode to kernel mode, the stack pointer(esp in x86) stays the same.']"
+    },
+    {
+        "guid":"aa7e1cbf-f33f-4579-83d7-3bef5673a7ba",
+        "model_answer":"- The resolved sideband limit (the region of the cavity that is not affected by mechanical perturbation) is defined by the phonon-phonon interaction between the mechanical oscillator and the cavity bath. - The phonon number at the resolved sideband limits is given by: - m = a \/ b where m is the resonance frequency of the cavity bath and b is the mechanical frequency of the oscillator. - g is the energy of the laser beam, i.e. - In the resolved side band limit, the maximum phonon"
+    },
+    {
+        "guid":"ee1a1937-ed58-499b-94ea-fe6fdd4717e2",
+        "model_answer":"le champ \u00e9lectrique Le champ \u00e9lectrique est un champ magn\u00e9tique qui d\u00e9crit les interactions entre deux objets tels que la charge et le courant."
+    },
+    {
+        "guid":"4c07c694-88e7-48d8-b711-e8809a0c679d",
+        "model_answer":"One of the two DNA strands can be used as a template to copy and amplify a DNA sequence The polymerase chain reaction (PCR) is a type of DNA synthesis that uses two DNA methylation sites, one on each strand of DNA and one on the other. It is based on the fact that the DNA is transcribed into RNA by a polymerase enzyme, and the resulting RNA is then amplified."
+    },
+    {
+        "guid":"76ce9513-bd2e-460e-a0b4-7a36819646d2",
+        "model_answer":"Pour tout entier n = 1, il existe une infinit\u00e9 de rationnels y tels que : - 0 + (x-y) + 0 - 1 - x + 0 = (x-(y-x)) + (y-(x)) - 1 + (x+(x)), x + (y) + 1 - 1 = (x+y) + (x) + 1 = (1-x) - (1-y) - - 1) - y = - 1"
+    },
+    {
+        "guid":"6303517c-ecc8-4deb-8785-550de1188bca",
+        "model_answer":"['Lidar']"
+    }
+]
